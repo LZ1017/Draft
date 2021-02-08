@@ -1,0 +1,30 @@
+*{
+	padding:5px;
+	margin:0;
+	box-sizing: border-box;
+}
+
+body {
+text-align: center;
+}
+
+h1{
+	font-family:'Feltro-Eroded', sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 100px
+}
+
+h2{
+	font-family:'brother-1816', sans-serif;
+	font-style: italic;
+	font-weight: bolder;
+	font-size: 40px;
+}
+
+p{
+	font-family:'brother-1816',sans-serif;
+	font-style: normal;
+	font-weight: 200;
+	font-size: 20px;
+}
